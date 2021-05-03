@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ```mermaid
-graph LP
+graph LR
 a --> b
 ```
 
